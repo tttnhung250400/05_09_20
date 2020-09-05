@@ -1,0 +1,13 @@
+D:\Midterm_LTGD\Midterm_Clickballoon\Midterm_Clickballoon\bin\Debug\Midterm_Clickballoon.exe.config
+D:\Midterm_LTGD\Midterm_Clickballoon\Midterm_Clickballoon\bin\Debug\Midterm_Clickballoon.exe
+D:\Midterm_LTGD\Midterm_Clickballoon\Midterm_Clickballoon\bin\Debug\Midterm_Clickballoon.pdb
+D:\Midterm_LTGD\Midterm_Clickballoon\Midterm_Clickballoon\obj\Debug\Midterm_Clickballoon.csprojAssemblyReference.cache
+D:\Midterm_LTGD\Midterm_Clickballoon\Midterm_Clickballoon\obj\Debug\Midterm_Clickballoon.Form1.resources
+D:\Midterm_LTGD\Midterm_Clickballoon\Midterm_Clickballoon\obj\Debug\Midterm_Clickballoon.Properties.Resources.resources
+D:\Midterm_LTGD\Midterm_Clickballoon\Midterm_Clickballoon\obj\Debug\Midterm_Clickballoon.csproj.GenerateResource.cache
+D:\Midterm_LTGD\Midterm_Clickballoon\Midterm_Clickballoon\obj\Debug\Midterm_Clickballoon.csproj.CoreCompileInputs.cache
+D:\Midterm_LTGD\Midterm_Clickballoon\Midterm_Clickballoon\obj\Debug\Midterm_Clickballoon.exe
+D:\Midterm_LTGD\Midterm_Clickballoon\Midterm_Clickballoon\obj\Debug\Midterm_Clickballoon.pdb
+D:\Midterm_LTGD\Midterm_Clickballoon\Midterm_Clickballoon\obj\Debug\Midterm_Clickballoon.Form2.resources
+D:\Midterm_LTGD\Midterm_Clickballoon\Midterm_Clickballoon\obj\Debug\Interop.WMPLib.dll
+D:\Midterm_LTGD\Midterm_Clickballoon\Midterm_Clickballoon\obj\Debug\Midterm_Clickballoon.csproj.ResolveComReference.cache
